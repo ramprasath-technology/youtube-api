@@ -6,8 +6,8 @@ How to get started with the project?
 
 1. cd into the project folder
 
-2. execute command npm install
+2. execute command: npm install
 
 3. replace the string constant API_KEY on index.js file with your own YouTube API key
 
-4. execuate command npm start
+4. execute command: npm start
