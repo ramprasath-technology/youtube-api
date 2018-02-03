@@ -4,7 +4,7 @@ It updates the video list dynamically without reloading the entire page.
 
 How to get started with the project?
 
-1. cd into the project folder
+1. Set project's directory as the current directory
 
 2. execute command: npm install
 
